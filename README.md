@@ -1,4 +1,4 @@
-<h1 align="lef">Hi👋, I'm Afrien!</h1>
+<h1 align="lef">Greetings👋, I'm Afrien!</h1>
 <h3 align="left">an undergraduate student at University of Pembangunan Nasional Veteran Yogyakarta, majoring in Informatics Engineering. I am passionate about UI/UX research & design and I am constantly equipping myself by joining IT Club, workshops and seminars, also participating in various IT events.</h3>
 
 - 🌱 I’m currently learning **UI/UX Design**
